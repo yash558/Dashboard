@@ -1,0 +1,172 @@
+.card {
+  width: 100%;
+  background: #fff;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 1px 0px !important;
+}
+.cardHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 20px;
+  border-bottom: 1px solid #cecece;
+}
+
+.card-title {
+  margin-top: 10px;
+  color: #fff;
+}
+
+.card-two-btn {
+  margin-left: 32rem;
+}
+.card-two-btn .btn {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.card-three-btn .btn {
+  margin-left: 38rem;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.card3 .card {
+  padding-right: 4rem;
+}
+.card2 .card {
+  padding-right: 3rem;
+}
+
+.btn.ones {
+  background-color: rgba(66, 64, 64, 0.465);
+}
+.btn.twos {
+  margin-left: 30px;
+  background-color: rgba(66, 64, 64, 0.465);
+}
+
+.icons {
+  margin-left: 4rem;
+}
+
+.para1 {
+  font-size: 14px;
+  margin-right: 1.5rem;
+}
+.toptitle {
+  margin-right: 4rem;
+}
+
+.icon {
+  margin-right: 1.3rem;
+}
+
+.para2 {
+  font-size: 12px;
+  color: #0a9ea8;
+}
+.para23 {
+  font-size: 10px;
+  margin-right: 1rem;
+}
+
+.para22 {
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 11px;
+}
+
+.rounded-circle.one {
+  margin-left: -10px;
+}
+.rounded-circle.two {
+  margin-left: -15px;
+}
+
+.button {
+  margin-left: 3rem;
+}
+
+.btn.btn-primary {
+  padding-top: 2px;
+  height: 2rem;
+}
+
+.card-details p {
+  margin-right: 14rem;
+  font-size: 15px;
+}
+.card-details .btn.btn-success {
+  margin-left: 5rem;
+  font-size: 12px;
+  height: 1.7rem;
+  padding-top: 2px;
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  -o-border-radius: 0px;
+}
+.card-details .btn.btn-danger {
+  margin-left: 5rem;
+  font-size: 12px;
+  height: 1.7rem;
+  padding-top: 2px;
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  -o-border-radius: 0px;
+}
+
+
+.card-details1 p{
+  width: 100%;
+}
+
+.card-details1 span{
+  margin-left: 1rem;
+}
+
+.property{
+  font-size: 12px;
+  margin-left: 1.1rem;
+}
+
+.card-details{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.card-details p{ 
+  font-size: 12px;
+  padding-top: 0;
+}
+.card-details .btn.btn-primary.view{
+  padding-top: 2px;
+  margin-left: 4rem;
+  height: 30px;
+}
+
+.card-details .dead{
+  padding-top: 0;
+  font-size: 12px;
+  font-weight: 600;
+  padding-left: 15px;
+ 
+}
+
+.progress{
+  padding-top: 0;
+  margin-top: 0;
+  height: 12px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+}
+
+.card-details1{
+  width: 100%;
+}
+
+.card-details1 h6{
+  
+  font-size: 14px;
+ 
+}
